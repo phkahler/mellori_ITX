@@ -1,7 +1,7 @@
 # mellori_ITX
 Mellori (Little Raven) - Small Form Factor printable case for AMD Raven Ridge systems
 
-![My Mellori](/images/mellori_ITX.jpg)
+![My Mellori](images/mellori_ITX.JPG)
 
 ##Description
 The Mellori ITX case was designed to fill the need for a small form factor case for AMD-based systems and measures
